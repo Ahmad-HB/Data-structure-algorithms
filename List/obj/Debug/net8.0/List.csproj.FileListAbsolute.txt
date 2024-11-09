@@ -1,0 +1,14 @@
+/Users/ahmad/RiderProjects/DSA/List/bin/Debug/net8.0/List
+/Users/ahmad/RiderProjects/DSA/List/bin/Debug/net8.0/List.deps.json
+/Users/ahmad/RiderProjects/DSA/List/bin/Debug/net8.0/List.runtimeconfig.json
+/Users/ahmad/RiderProjects/DSA/List/bin/Debug/net8.0/List.dll
+/Users/ahmad/RiderProjects/DSA/List/bin/Debug/net8.0/List.pdb
+/Users/ahmad/RiderProjects/DSA/List/obj/Debug/net8.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmad/RiderProjects/DSA/List/obj/Debug/net8.0/List.AssemblyInfoInputs.cache
+/Users/ahmad/RiderProjects/DSA/List/obj/Debug/net8.0/List.AssemblyInfo.cs
+/Users/ahmad/RiderProjects/DSA/List/obj/Debug/net8.0/List.csproj.CoreCompileInputs.cache
+/Users/ahmad/RiderProjects/DSA/List/obj/Debug/net8.0/List.dll
+/Users/ahmad/RiderProjects/DSA/List/obj/Debug/net8.0/refint/List.dll
+/Users/ahmad/RiderProjects/DSA/List/obj/Debug/net8.0/List.pdb
+/Users/ahmad/RiderProjects/DSA/List/obj/Debug/net8.0/List.genruntimeconfig.cache
+/Users/ahmad/RiderProjects/DSA/List/obj/Debug/net8.0/ref/List.dll

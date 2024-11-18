@@ -1,0 +1,15 @@
+/Users/ahmad/RiderProjects/DSA/LinkedList/bin/Debug/net8.0/LinkedList
+/Users/ahmad/RiderProjects/DSA/LinkedList/bin/Debug/net8.0/LinkedList.deps.json
+/Users/ahmad/RiderProjects/DSA/LinkedList/bin/Debug/net8.0/LinkedList.runtimeconfig.json
+/Users/ahmad/RiderProjects/DSA/LinkedList/bin/Debug/net8.0/LinkedList.dll
+/Users/ahmad/RiderProjects/DSA/LinkedList/bin/Debug/net8.0/LinkedList.pdb
+/Users/ahmad/RiderProjects/DSA/LinkedList/obj/Debug/net8.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmad/RiderProjects/DSA/LinkedList/obj/Debug/net8.0/LinkedList.AssemblyInfoInputs.cache
+/Users/ahmad/RiderProjects/DSA/LinkedList/obj/Debug/net8.0/LinkedList.AssemblyInfo.cs
+/Users/ahmad/RiderProjects/DSA/LinkedList/obj/Debug/net8.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/ahmad/RiderProjects/DSA/LinkedList/obj/Debug/net8.0/LinkedList.sourcelink.json
+/Users/ahmad/RiderProjects/DSA/LinkedList/obj/Debug/net8.0/LinkedList.dll
+/Users/ahmad/RiderProjects/DSA/LinkedList/obj/Debug/net8.0/refint/LinkedList.dll
+/Users/ahmad/RiderProjects/DSA/LinkedList/obj/Debug/net8.0/LinkedList.pdb
+/Users/ahmad/RiderProjects/DSA/LinkedList/obj/Debug/net8.0/LinkedList.genruntimeconfig.cache
+/Users/ahmad/RiderProjects/DSA/LinkedList/obj/Debug/net8.0/ref/LinkedList.dll

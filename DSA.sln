@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{FAC1992A-B072-44FB-8835-0F779D36D9B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{0B060687-17A2-496A-B43F-0A542277079A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{FAC1992A-B072-44FB-8835-0F779D36D9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAC1992A-B072-44FB-8835-0F779D36D9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAC1992A-B072-44FB-8835-0F779D36D9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B060687-17A2-496A-B43F-0A542277079A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B060687-17A2-496A-B43F-0A542277079A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B060687-17A2-496A-B43F-0A542277079A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B060687-17A2-496A-B43F-0A542277079A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

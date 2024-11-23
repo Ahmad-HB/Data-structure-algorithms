@@ -1,0 +1,15 @@
+/Users/ahmad/RiderProjects/DSA/Stack/bin/Debug/net8.0/Stack
+/Users/ahmad/RiderProjects/DSA/Stack/bin/Debug/net8.0/Stack.deps.json
+/Users/ahmad/RiderProjects/DSA/Stack/bin/Debug/net8.0/Stack.runtimeconfig.json
+/Users/ahmad/RiderProjects/DSA/Stack/bin/Debug/net8.0/Stack.dll
+/Users/ahmad/RiderProjects/DSA/Stack/bin/Debug/net8.0/Stack.pdb
+/Users/ahmad/RiderProjects/DSA/Stack/obj/Debug/net8.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmad/RiderProjects/DSA/Stack/obj/Debug/net8.0/Stack.AssemblyInfoInputs.cache
+/Users/ahmad/RiderProjects/DSA/Stack/obj/Debug/net8.0/Stack.AssemblyInfo.cs
+/Users/ahmad/RiderProjects/DSA/Stack/obj/Debug/net8.0/Stack.csproj.CoreCompileInputs.cache
+/Users/ahmad/RiderProjects/DSA/Stack/obj/Debug/net8.0/Stack.sourcelink.json
+/Users/ahmad/RiderProjects/DSA/Stack/obj/Debug/net8.0/Stack.dll
+/Users/ahmad/RiderProjects/DSA/Stack/obj/Debug/net8.0/refint/Stack.dll
+/Users/ahmad/RiderProjects/DSA/Stack/obj/Debug/net8.0/Stack.pdb
+/Users/ahmad/RiderProjects/DSA/Stack/obj/Debug/net8.0/Stack.genruntimeconfig.cache
+/Users/ahmad/RiderProjects/DSA/Stack/obj/Debug/net8.0/ref/Stack.dll

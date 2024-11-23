@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{0B060687-17A2-496A-B43F-0A542277079A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublyLinkedList", "DoublyLinkedList\DoublyLinkedList.csproj", "{7763D1E5-F712-4C6E-A0F6-C76A35BF1C60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{BF448C9D-4040-46F3-B4E5-D4A9F5AFE56E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{0B060687-17A2-496A-B43F-0A542277079A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B060687-17A2-496A-B43F-0A542277079A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B060687-17A2-496A-B43F-0A542277079A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7763D1E5-F712-4C6E-A0F6-C76A35BF1C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7763D1E5-F712-4C6E-A0F6-C76A35BF1C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7763D1E5-F712-4C6E-A0F6-C76A35BF1C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7763D1E5-F712-4C6E-A0F6-C76A35BF1C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF448C9D-4040-46F3-B4E5-D4A9F5AFE56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF448C9D-4040-46F3-B4E5-D4A9F5AFE56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF448C9D-4040-46F3-B4E5-D4A9F5AFE56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF448C9D-4040-46F3-B4E5-D4A9F5AFE56E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

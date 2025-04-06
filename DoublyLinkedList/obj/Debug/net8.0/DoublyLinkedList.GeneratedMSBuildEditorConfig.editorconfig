@@ -11,3 +11,5 @@ build_property.RootNamespace = DoublyLinkedList
 build_property.ProjectDir = /Users/ahmad/RiderProjects/DSA/DoublyLinkedList/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

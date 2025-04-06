@@ -1,0 +1,15 @@
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/bin/Debug/net8.0/DoublyLinkedList
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/bin/Debug/net8.0/DoublyLinkedList.deps.json
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/bin/Debug/net8.0/DoublyLinkedList.runtimeconfig.json
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/bin/Debug/net8.0/DoublyLinkedList.dll
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/bin/Debug/net8.0/DoublyLinkedList.pdb
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/obj/Debug/net8.0/DoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/obj/Debug/net8.0/DoublyLinkedList.AssemblyInfoInputs.cache
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/obj/Debug/net8.0/DoublyLinkedList.AssemblyInfo.cs
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/obj/Debug/net8.0/DoublyLinkedList.csproj.CoreCompileInputs.cache
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/obj/Debug/net8.0/DoublyLinkedList.sourcelink.json
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/obj/Debug/net8.0/DoublyLinkedList.dll
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/obj/Debug/net8.0/refint/DoublyLinkedList.dll
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/obj/Debug/net8.0/DoublyLinkedList.pdb
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/obj/Debug/net8.0/DoublyLinkedList.genruntimeconfig.cache
+/Users/ahmad/RiderProjects/DSA/DoublyLinkedList/obj/Debug/net8.0/ref/DoublyLinkedList.dll

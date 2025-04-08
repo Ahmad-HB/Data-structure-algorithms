@@ -1,0 +1,15 @@
+/Users/ahmad/RiderProjects/DSA/AVLTree/bin/Debug/net9.0/AVLTree
+/Users/ahmad/RiderProjects/DSA/AVLTree/bin/Debug/net9.0/AVLTree.deps.json
+/Users/ahmad/RiderProjects/DSA/AVLTree/bin/Debug/net9.0/AVLTree.runtimeconfig.json
+/Users/ahmad/RiderProjects/DSA/AVLTree/bin/Debug/net9.0/AVLTree.dll
+/Users/ahmad/RiderProjects/DSA/AVLTree/bin/Debug/net9.0/AVLTree.pdb
+/Users/ahmad/RiderProjects/DSA/AVLTree/obj/Debug/net9.0/AVLTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmad/RiderProjects/DSA/AVLTree/obj/Debug/net9.0/AVLTree.AssemblyInfoInputs.cache
+/Users/ahmad/RiderProjects/DSA/AVLTree/obj/Debug/net9.0/AVLTree.AssemblyInfo.cs
+/Users/ahmad/RiderProjects/DSA/AVLTree/obj/Debug/net9.0/AVLTree.csproj.CoreCompileInputs.cache
+/Users/ahmad/RiderProjects/DSA/AVLTree/obj/Debug/net9.0/AVLTree.sourcelink.json
+/Users/ahmad/RiderProjects/DSA/AVLTree/obj/Debug/net9.0/AVLTree.dll
+/Users/ahmad/RiderProjects/DSA/AVLTree/obj/Debug/net9.0/refint/AVLTree.dll
+/Users/ahmad/RiderProjects/DSA/AVLTree/obj/Debug/net9.0/AVLTree.pdb
+/Users/ahmad/RiderProjects/DSA/AVLTree/obj/Debug/net9.0/AVLTree.genruntimeconfig.cache
+/Users/ahmad/RiderProjects/DSA/AVLTree/obj/Debug/net9.0/ref/AVLTree.dll

@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\Hash
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet", "HashSet\HashSet.csproj", "{597AFA3B-3FEC-41F2-96B8-3A0306390FE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{E3162DF6-CB77-4274-9B89-F46E8CA6C9F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{597AFA3B-3FEC-41F2-96B8-3A0306390FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{597AFA3B-3FEC-41F2-96B8-3A0306390FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{597AFA3B-3FEC-41F2-96B8-3A0306390FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3162DF6-CB77-4274-9B89-F46E8CA6C9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3162DF6-CB77-4274-9B89-F46E8CA6C9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3162DF6-CB77-4274-9B89-F46E8CA6C9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3162DF6-CB77-4274-9B89-F46E8CA6C9F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

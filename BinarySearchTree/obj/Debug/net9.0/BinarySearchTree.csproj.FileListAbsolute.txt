@@ -1,0 +1,15 @@
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/bin/Debug/net9.0/BinarySearchTree
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/bin/Debug/net9.0/BinarySearchTree.deps.json
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/bin/Debug/net9.0/BinarySearchTree.runtimeconfig.json
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/bin/Debug/net9.0/BinarySearchTree.dll
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/bin/Debug/net9.0/BinarySearchTree.pdb
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/obj/Debug/net9.0/BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/obj/Debug/net9.0/BinarySearchTree.AssemblyInfoInputs.cache
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/obj/Debug/net9.0/BinarySearchTree.AssemblyInfo.cs
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/obj/Debug/net9.0/BinarySearchTree.csproj.CoreCompileInputs.cache
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/obj/Debug/net9.0/BinarySearchTree.sourcelink.json
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/obj/Debug/net9.0/BinarySearchTree.dll
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/obj/Debug/net9.0/refint/BinarySearchTree.dll
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/obj/Debug/net9.0/BinarySearchTree.pdb
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/obj/Debug/net9.0/BinarySearchTree.genruntimeconfig.cache
+/Users/ahmad/RiderProjects/DSA/BinarySearchTree/obj/Debug/net9.0/ref/BinarySearchTree.dll

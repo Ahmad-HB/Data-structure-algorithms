@@ -38,4 +38,18 @@ public class Graph<T> : IGraph<T>
     public bool ContainsVertex(T vertex) => adjacencyList.ContainsKey(vertex);
 
     public IEnumerable<T> GetVertices() => adjacencyList.Keys;
+    
+    
+    public List<(T from, T to, int weight)> GetAllEdges()
+    {
+        var edges = new List<(T from, T to, int weight)>();
+        foreach (var from in adjacencyList)
+        {
+            foreach (var (to, weight) in from.Value)
+            {
+                edges.Add((from.Key, to, weight));
+            }
+        }
+        return edges;
+    }
 }

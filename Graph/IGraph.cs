@@ -7,4 +7,6 @@ public interface IGraph<T> where T : notnull
     Dictionary<T, List<(T to, int weight)>> GetAdjacencyList();
     bool ContainsVertex(T vertex);
     IEnumerable<T> GetVertices();
+
+    public List<(T from, T to, int weight)> GetAllEdges();
 }

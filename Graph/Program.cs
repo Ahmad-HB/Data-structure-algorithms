@@ -38,7 +38,7 @@ class MyClass
         graph.AddEdge("E", "A", -10); // for Bellman-Ford only
 
 // Dijkstra
-        var dijkstraDistances = DijkstraAlgorithms.Dijkstra(graph, "A");
+        var dijkstraDistances = DijkstraAlgorithm.Dijkstra(graph, "A");
         Console.WriteLine("Dijkstra:");
         foreach (var (v, d) in dijkstraDistances)
             Console.WriteLine($"{v}: {d}");

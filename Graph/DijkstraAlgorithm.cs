@@ -1,6 +1,6 @@
 namespace Graph;
 
-public static class DijkstraAlgorithms
+public static class DijkstraAlgorithm
 {
     public static Dictionary<T, int> Dijkstra<T>(IGraph<T> graph, T source)
     {

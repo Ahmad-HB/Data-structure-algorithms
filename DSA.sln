@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVLTree", "AVLTree\AVLTree.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{CD91B6B5-EE01-43CA-8F44-61E0314BDA15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{8015AF72-4AB0-46A7-800F-F5FE538817D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{CD91B6B5-EE01-43CA-8F44-61E0314BDA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD91B6B5-EE01-43CA-8F44-61E0314BDA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD91B6B5-EE01-43CA-8F44-61E0314BDA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8015AF72-4AB0-46A7-800F-F5FE538817D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8015AF72-4AB0-46A7-800F-F5FE538817D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8015AF72-4AB0-46A7-800F-F5FE538817D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8015AF72-4AB0-46A7-800F-F5FE538817D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+/Users/ahmad/RiderProjects/DSA/Algorithms/bin/Debug/net9.0/Algorithms
+/Users/ahmad/RiderProjects/DSA/Algorithms/bin/Debug/net9.0/Algorithms.deps.json
+/Users/ahmad/RiderProjects/DSA/Algorithms/bin/Debug/net9.0/Algorithms.runtimeconfig.json
+/Users/ahmad/RiderProjects/DSA/Algorithms/bin/Debug/net9.0/Algorithms.dll
+/Users/ahmad/RiderProjects/DSA/Algorithms/bin/Debug/net9.0/Algorithms.pdb
+/Users/ahmad/RiderProjects/DSA/Algorithms/obj/Debug/net9.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmad/RiderProjects/DSA/Algorithms/obj/Debug/net9.0/Algorithms.AssemblyInfoInputs.cache
+/Users/ahmad/RiderProjects/DSA/Algorithms/obj/Debug/net9.0/Algorithms.AssemblyInfo.cs
+/Users/ahmad/RiderProjects/DSA/Algorithms/obj/Debug/net9.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/ahmad/RiderProjects/DSA/Algorithms/obj/Debug/net9.0/Algorithms.sourcelink.json
+/Users/ahmad/RiderProjects/DSA/Algorithms/obj/Debug/net9.0/Algorithms.dll
+/Users/ahmad/RiderProjects/DSA/Algorithms/obj/Debug/net9.0/refint/Algorithms.dll
+/Users/ahmad/RiderProjects/DSA/Algorithms/obj/Debug/net9.0/Algorithms.pdb
+/Users/ahmad/RiderProjects/DSA/Algorithms/obj/Debug/net9.0/Algorithms.genruntimeconfig.cache
+/Users/ahmad/RiderProjects/DSA/Algorithms/obj/Debug/net9.0/ref/Algorithms.dll

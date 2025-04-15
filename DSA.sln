@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinaryS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVLTree", "AVLTree\AVLTree.csproj", "{7BC7AC73-B0D8-4B3F-BF0E-6A27AC3E95C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{CD91B6B5-EE01-43CA-8F44-61E0314BDA15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{7BC7AC73-B0D8-4B3F-BF0E-6A27AC3E95C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BC7AC73-B0D8-4B3F-BF0E-6A27AC3E95C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BC7AC73-B0D8-4B3F-BF0E-6A27AC3E95C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD91B6B5-EE01-43CA-8F44-61E0314BDA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD91B6B5-EE01-43CA-8F44-61E0314BDA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD91B6B5-EE01-43CA-8F44-61E0314BDA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD91B6B5-EE01-43CA-8F44-61E0314BDA15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+/Users/ahmad/RiderProjects/DSA/Graph/bin/Debug/net9.0/Graph
+/Users/ahmad/RiderProjects/DSA/Graph/bin/Debug/net9.0/Graph.deps.json
+/Users/ahmad/RiderProjects/DSA/Graph/bin/Debug/net9.0/Graph.runtimeconfig.json
+/Users/ahmad/RiderProjects/DSA/Graph/bin/Debug/net9.0/Graph.dll
+/Users/ahmad/RiderProjects/DSA/Graph/bin/Debug/net9.0/Graph.pdb
+/Users/ahmad/RiderProjects/DSA/Graph/obj/Debug/net9.0/Graph.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmad/RiderProjects/DSA/Graph/obj/Debug/net9.0/Graph.AssemblyInfoInputs.cache
+/Users/ahmad/RiderProjects/DSA/Graph/obj/Debug/net9.0/Graph.AssemblyInfo.cs
+/Users/ahmad/RiderProjects/DSA/Graph/obj/Debug/net9.0/Graph.csproj.CoreCompileInputs.cache
+/Users/ahmad/RiderProjects/DSA/Graph/obj/Debug/net9.0/Graph.sourcelink.json
+/Users/ahmad/RiderProjects/DSA/Graph/obj/Debug/net9.0/Graph.dll
+/Users/ahmad/RiderProjects/DSA/Graph/obj/Debug/net9.0/refint/Graph.dll
+/Users/ahmad/RiderProjects/DSA/Graph/obj/Debug/net9.0/Graph.pdb
+/Users/ahmad/RiderProjects/DSA/Graph/obj/Debug/net9.0/Graph.genruntimeconfig.cache
+/Users/ahmad/RiderProjects/DSA/Graph/obj/Debug/net9.0/ref/Graph.dll
